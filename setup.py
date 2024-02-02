@@ -1,8 +1,8 @@
 from setuptools import setup, find_packages
 
 setup(
-    name='codex-python-types',
-    version='0.0.1',
+    name='codex_python_types',
+    version='0.0.3',
     packages=find_packages(),
     install_requires=[
         'annotated-types==0.6.0',
